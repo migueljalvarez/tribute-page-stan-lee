@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Play&display=swap");
+body {
+  font-family: "Play", sans-serif;
+  font-weight: lighter;
+  font-size: 24px;
+  max-width: 1024px;
+  margin: auto;
+  background-color: #e23636;
+  color: #fff;
+}
+blockquote {
+  font-style: italic;
+  margin: 0 auto 50px auto;
+  padding: 20px;
+  text-align: left;
+  border-radius: 20px;
+}
+article {
+  text-align: justify;
+  padding: 20px;
+}
+.wrapper {
+  width: 80%;
+  margin: auto;
+}
+.white-bg-color {
+  background-color: #fff;
+  color: #504a4a;
+}
+#main {
+  width: 100%;
+  text-align: center;
+}
+#img-div {
+  padding: 10px;
+  width: 80%;
+  background-color: #fff;
+  color: #504a4a;
+  margin: auto;
+}
+#img-div img {
+  width: 100%;
+  margin: auto;
+}
+
+#title h1 {
+  position: relative;
+  top: 25px;
+  margin: 2em;
+}
+#tribute-info ul li {
+  text-align: justify;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#tribute-info ul li strong{
+  color: #518cca;
+}
+#tribute-link {
+  text-decoration: none;
+  color: #518cca;
+}
